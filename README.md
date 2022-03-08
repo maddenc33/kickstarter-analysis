@@ -14,10 +14,10 @@ The initial challenge with the data set involved cleaning up the data.  Specific
 Another challenge was categorizing and subcategoriing data, accomplished by using the Convert Text to Columns Wizard, using the / as delimiter.
 
 ### Analysis of Outcomes Based on Launch Date
-![Analysis of Outcomes Based on Launch Date](https://github.com/maddenc33/kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Analysis of Outcomes Based on Launch Date](https://github.com/maddenc33/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
-![Analysis of Outcomes Based on Goals](https://github.com/maddenc33/kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Analysis of Outcomes Based on Goals](https://github.com/maddenc33/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ## Results
 
