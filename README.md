@@ -1,6 +1,5 @@
 # Kickstarting with Excel
 
-##Overview of Project
 Analyzing Kickstarter fundraising campaign data to interpret success and failure rates of campaigns over time.
 
 ### Purpose
